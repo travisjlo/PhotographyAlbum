@@ -7,7 +7,7 @@ export default class Home extends PureComponent{
     return(
       <div>
          <NavBar />
-        <h1> Welcome to my site!</h1>
+        <h1> My name is Travis</h1>
         <h1> Welcome to my site!</h1>
         <h1> Welcome to my site!</h1>
         <h1> Welcome to my site!</h1>
